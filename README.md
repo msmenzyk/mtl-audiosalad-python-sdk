@@ -1,6 +1,5 @@
 # mtl-audiosalad-sdk
 
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 Unofficial, experimental Python SDK for interacting with AudioSalad APIs.
 
@@ -27,7 +26,7 @@ It provides three layers:
 ### Install
 
 ```bash
-git clone https://github.com/musictechlab/mtl-audiosalad-sdk.git
+git clone https://github.com/msmenzyk/mtl-audiosalad-sdk.git
 cd mtl-audiosalad-sdk
 poetry install
 ```
@@ -238,11 +237,11 @@ SOFTWARE.
 ---
 
 <div align="center">
-  MusicTech Lab - Rockstars Developers dedicated to the Music Industry<br>
-  <a href="https://musictechlab.io">Website</a>
+  Mariusz Smenżyk - Rockstars Developers dedicated to the Music Industry<br>
+  <a href="https://mtl.dev">Website</a>
   <span> | </span>
-  <a href="https://linkedin.com/company/musictechlab">LinkedIn</a>
+  <a href="https://linkedin.com/company/Mariusz Smenżyk">LinkedIn</a>
   <span> | </span>
-  <a href="https://musictechlab.io/contact">Let's talk</a><br>
-  Crafted by <a href="https://musictechlab.io">musictechlab.io</a>
+  <a href="https://mtl.dev/contact">Let's talk</a><br>
+  Crafted by <a href="https://mtl.dev">mtl.dev</a>
 </div>
