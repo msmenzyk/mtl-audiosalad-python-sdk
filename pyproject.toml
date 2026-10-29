@@ -3,7 +3,7 @@ name = "audiosalad-python-sdk"
 version = "0.0.1"
 description = "Unofficial and open source Python library for interacting with the AudioSalad API"
 license = "MIT"
-authors = ["Mariusz Smenżyk <mariusz.smenzyk@musictechlab.io>"]
+authors = ["Mariusz Smenżyk <mariusz@mtl.dev>"]
 readme = "README.md"
 packages = [{include = "audiosalad_sdk"}]
 
